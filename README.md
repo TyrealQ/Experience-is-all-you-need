@@ -8,10 +8,10 @@ Thanks for your interest! This repository contains the datasets, code, and fine-
 
 | File/Folder Name        | Description                                                                                              |
 | ----------------------- | -------------------------------------------------------------------------------------------------------- |
-| `Training_AE`           | Fine-tuning dataset for GPT-3.5 to extract aspects (AE).                                                 |
-| `Training_CC`           | Fine-tuning dataset for GPT-3.5 to classify aspects (CC).                                                |
-| `Testing_all_variables` | Comprehensive testing dataset containing review texts, metadata, and all statistical analysis variables. |
-| `Testing_analysis`      | Testing dataset for statistical analysis.                                                                |
+| `Train_AE`           | Fine-tuning dataset for GPT-3.5 to extract aspects (AE).                                                 |
+| `Train_CC`           | Fine-tuning dataset for GPT-3.5 to classify aspects (CC).                                                |
+| `Test_all_variables` | Comprehensive testing dataset containing review texts, metadata, and all statistical analysis variables. |
+| `Test_analysis`      | Testing dataset for statistical analysis.                                                                |
 | `RoBERTa_eval_data`     | Evaluation dataset extracted from the training data for model assessment.                                |
 | `Code_SMR`              | Python code executed on Google Colab for performing all study analyses.                                  |
 
@@ -19,8 +19,8 @@ Thanks for your interest! This repository contains the datasets, code, and fine-
 ## Usage
 
 1. Clone the repository.  
-2. Explore the `Training_AE` and `Training_CC` files to replicate or adapt fine-tuning for GPT-3.5.
-3. Use the `Testing_all_variables` and `Testing_analysis` datasets to reproduce the quantitative and qualitative analyses.
+2. Explore the `Train_AE` and `Train_CC` files to replicate or adapt fine-tuning for GPT-3.5.
+3. Use the `Test_all_variables` and `Test_analysis` datasets to reproduce the quantitative and qualitative analyses.
 4. Run the notebook(s) in `Code_SMR` to reproduce the full analytical pipeline.
 5. Use `RoBERTa_eval_data` to evaluate the RoBERTa model performance.
 
