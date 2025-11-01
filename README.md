@@ -41,3 +41,8 @@ If you use this repository or build upon this work, please cite the associated p
   year={2025},
   doi={10.1080/14413523.2024.2386467}
 }
+```
+
+## Contact
+
+For questions, suggestions, or collaboration opportunities, please contact: [Tyreal Yizhou Qian](https://tyrealq.github.io/).
