@@ -1,4 +1,4 @@
-# Experience is all you need: A large language model application of fine-tuned GPT-3.5 and RoBERTa for aspect-based sentiment analysis of college football stadium reviews
+# Experience Is All You Need: A large Language Model Application of Fine-Tuned GPT-3.5 and RoBERTa for Aspect-Based Sentiment Analysis of College Football Stadium Reviews
 
 Thanks for your interest! This repository contains the datasets, code, and fine-tuning materials associated with the paper *"[Experience Is All You Need: A large Language Model Application of Fine-Tuned GPT-3.5 and RoBERTa for Aspect-Based Sentiment Analysis of College Football Stadium Reviews](https://doi.org/10.1080/14413523.2024.2386467)."*
 
